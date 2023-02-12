@@ -6,5 +6,5 @@
  */
 public with sharing class HelloWorld {
 
-    // todo replace by your classes
+    // todo replace by your classess
 }
